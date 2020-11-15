@@ -1,0 +1,30 @@
+
+ # walltime on processor 1 : 0.64748453 
+
+ # walltime on processor 2 : 0.64776607 
+
+ # of trials = 100000000 , estimate of pi is 3.141382160 
+
+ # walltime on master processor : 0.64776625 
+
+ # walltime on processor 3 : 0.64734643 
+
+ # walltime on processor 1 : 0.64297557 
+
+ # walltime on processor 2 : 0.64339312 
+
+ # of trials = 100000000 , estimate of pi is 3.141382160 
+
+ # walltime on master processor : 0.64558483 
+
+ # walltime on processor 3 : 0.64536511 
+
+ # walltime on processor 1 : 0.64402217 
+
+ # walltime on processor 2 : 0.64467684 
+
+ # of trials = 100000000 , estimate of pi is 3.141382160 
+
+ # walltime on master processor : 0.64468926 
+
+ # walltime on processor 3 : 0.64423272 

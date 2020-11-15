@@ -1,0 +1,6 @@
+Vector register name / bits
+
+mmm 64
+xmm 128
+ymm 256
+zmm 512

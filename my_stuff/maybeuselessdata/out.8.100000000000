@@ -1,0 +1,52 @@
+
+ # walltime on processor 1 : 323.03201618 
+
+ # walltime on processor 2 : 323.03207225 
+
+ # walltime on processor 3 : 323.03202083 
+
+ # of trials = 100000000000 , estimate of pi is 3.141592539 
+
+ # walltime on master processor : 323.03205465 
+
+ # walltime on processor 4 : 323.03173742 
+
+ # walltime on processor 5 : 323.03161265 
+
+ # walltime on processor 6 : 323.03212176 
+
+ # walltime on processor 7 : 323.03211419 
+
+ # walltime on processor 1 : 322.78985766 
+
+ # walltime on processor 3 : 323.06641800 
+
+
+ # walltime on processor 2 : 323.06722662 
+ # walltime on processor 4 : 323.06679648 
+
+ # of trials = 100000000000 , estimate of pi is 3.141592539 
+
+
+ # walltime on processor 6 : 325.07859443 
+ # walltime on master processor : 325.07967941 
+
+ # walltime on processor 7 : 325.07942389 
+
+ # walltime on processor 5 : 325.07964296 
+[1603556727.753897] [ct1pg-gnode001:4369 :0]       mm_posix.c:195  UCX  ERROR open(file_name=/proc/4373/fd/21 flags=0x0) failed: Permission denied
+[1603556727.753935] [ct1pg-gnode001:4369 :0]       mm_posix.c:195  UCX  ERROR open(file_name=/proc/4374/fd/21 flags=0x0) failed: No such file or directory
+
+ # of trials = 100000000000 , estimate of pi is 3.141592539 
+
+ # walltime on master processor : 323.55536338 
+
+ # walltime on processor 1 : 323.16047728 
+
+ # walltime on processor 2 : 323.16037625 
+
+ # walltime on processor 3 : 323.16045651 
+
+ # walltime on processor 7 : 323.55524050 
+
+ # walltime on processor 6 : 323.55525868 

@@ -1,0 +1,252 @@
+
+ # walltime on processor 1 : 76.16910668 
+
+ # walltime on processor 2 : 76.16871807 
+
+ # walltime on processor 3 : 76.16906211 
+
+ # walltime on processor 4 : 76.16881942 
+
+ # walltime on processor 5 : 76.16913835 
+
+ # walltime on processor 6 : 76.15924454 
+
+ # walltime on processor 7 : 76.16915184 
+
+ # walltime on processor 8 : 76.16897266 
+
+ # walltime on processor 9 : 76.16896470 
+
+ # walltime on processor 10 : 76.16910060 
+
+ # walltime on processor 11 : 76.16907617 
+
+ # walltime on processor 12 : 76.15648066 
+
+ # walltime on processor 13 : 76.16918253 
+
+ # walltime on processor 14 : 76.16889163 
+
+ # walltime on processor 15 : 76.16928949 
+
+ # walltime on processor 16 : 76.14744668 
+
+ # walltime on processor 17 : 76.16932724 
+
+ # walltime on processor 18 : 76.16911374 
+
+ # walltime on processor 19 : 76.16936378 
+
+ # walltime on processor 20 : 76.16929579 
+
+ # walltime on processor 21 : 76.16928187 
+
+ # walltime on processor 22 : 76.16928133 
+
+ # walltime on processor 23 : 76.16917641 
+
+ # walltime on processor 24 : 76.16916256 
+
+ # walltime on processor 25 : 76.16920692 
+
+ # walltime on processor 26 : 76.15670348 
+
+ # walltime on processor 27 : 79.45606252 
+
+ # walltime on processor 28 : 79.45637068 
+
+ # walltime on processor 29 : 79.44344319 
+
+ # walltime on processor 30 : 79.45630256 
+
+ # walltime on processor 31 : 79.45636721 
+
+ # walltime on processor 32 : 79.45615452 
+
+ # walltime on processor 33 : 79.45654663 
+
+ # walltime on processor 34 : 79.45631580 
+
+ # walltime on processor 35 : 79.45638099 
+
+ # walltime on processor 37 : 79.52946731 
+
+ # walltime on processor 38 : 79.52937284 
+
+ # of trials = 100000000000 , estimate of pi is 3.141593733 
+
+ # walltime on master processor : 79.52919279 
+
+
+ # walltime on processor 39 : 79.52930423 
+ # walltime on processor 36 : 79.52767104 
+3098.49user 17.66system 1:20.53elapsed 3869%CPU (0avgtext+0avgdata 130112maxresident)k
+0inputs+16664outputs (9major+1220338minor)pagefaults 0swaps
+
+ # walltime on processor 1 : 75.62932242 
+
+ # walltime on processor 2 : 75.62952155 
+
+ # walltime on processor 3 : 75.62942868 
+
+ # walltime on processor 4 : 75.62946324 
+
+ # walltime on processor 5 : 75.62949299 
+
+ # walltime on processor 6 : 75.62951339 
+
+ # walltime on processor 7 : 75.62964415 
+
+ # walltime on processor 8 : 75.62939335 
+
+ # walltime on processor 9 : 75.61724066 
+
+ # walltime on processor 10 : 75.62932892 
+
+ # walltime on processor 11 : 75.61712626 
+
+ # walltime on processor 12 : 75.62955738 
+
+ # walltime on processor 13 : 75.62602427 
+
+ # walltime on processor 14 : 75.62960780 
+
+ # walltime on processor 15 : 75.62960897 
+
+ # walltime on processor 16 : 75.62944569 
+
+ # walltime on processor 17 : 75.62921714 
+
+ # walltime on processor 18 : 75.62923993 
+
+ # walltime on processor 19 : 75.62948917 
+
+ # walltime on processor 20 : 75.61726453 
+
+ # walltime on processor 21 : 75.62976023 
+
+ # walltime on processor 22 : 75.62946315 
+
+ # walltime on processor 23 : 75.62951049 
+
+ # walltime on processor 24 : 75.84558926 
+
+ # walltime on processor 25 : 75.84559314 
+
+ # walltime on processor 26 : 75.83332312 
+
+ # walltime on processor 27 : 75.84534976 
+
+ # walltime on processor 28 : 75.84525407 
+
+ # walltime on processor 29 : 75.84449242 
+
+ # walltime on processor 30 : 75.84520171 
+
+ # walltime on processor 31 : 75.84572930 
+
+ # walltime on processor 32 : 75.84541322 
+
+ # walltime on processor 33 : 75.84561781 
+
+ # walltime on processor 34 : 75.84547855 
+
+ # walltime on processor 35 : 75.84532699 
+
+ # walltime on processor 36 : 75.84577364 
+
+ # walltime on processor 37 : 75.83315880 
+
+ # of trials = 100000000000 , estimate of pi is 3.141593733 
+
+ # walltime on master processor : 75.84500112 
+
+ # walltime on processor 38 : 75.84575375 
+
+ # walltime on processor 39 : 75.83112863 
+3033.46user 17.86system 1:16.86elapsed 3969%CPU (0avgtext+0avgdata 130080maxresident)k
+0inputs+16664outputs (9major+1220385minor)pagefaults 0swaps
+
+ # walltime on processor 1 : 74.44249441 
+
+ # walltime on processor 3 : 75.92132264 
+
+ # walltime on processor 4 : 75.92136798 
+
+ # walltime on processor 5 : 75.92125466 
+
+ # walltime on processor 6 : 75.92122584 
+
+ # walltime on processor 7 : 75.92129535 
+
+ # walltime on processor 8 : 75.92116585 
+
+ # walltime on processor 9 : 75.92118489 
+
+ # walltime on processor 10 : 75.92127607 
+
+ # walltime on processor 11 : 75.92113477 
+
+ # walltime on processor 2 : 75.92131460 
+
+ # walltime on processor 12 : 75.99105372 
+
+ # walltime on processor 13 : 75.98850246 
+
+ # walltime on processor 14 : 75.98862715 
+
+ # walltime on processor 15 : 75.99106009 
+
+ # walltime on processor 16 : 75.99094477 
+
+ # walltime on processor 17 : 75.98666848 
+
+ # walltime on processor 18 : 75.97831081 
+
+ # walltime on processor 19 : 75.97833256 
+
+ # walltime on processor 20 : 75.99108578 
+
+ # walltime on processor 21 : 75.99092436 
+
+ # walltime on processor 22 : 75.99105785 
+
+ # walltime on processor 23 : 75.99106444 
+
+ # walltime on processor 24 : 75.99090230 
+
+ # walltime on processor 25 : 75.99092922 
+
+ # walltime on processor 26 : 75.99105634 
+
+ # walltime on processor 27 : 75.99110216 
+
+ # walltime on processor 28 : 75.99128303 
+
+ # walltime on processor 29 : 75.99046773 
+
+ # walltime on processor 30 : 75.99131283 
+
+ # walltime on processor 31 : 75.99124753 
+
+ # walltime on processor 32 : 75.99128948 
+
+ # walltime on processor 33 : 75.99140456 
+
+ # walltime on processor 34 : 75.98882153 
+
+ # walltime on processor 35 : 75.99103258 
+
+ # walltime on processor 36 : 75.99096889 
+
+ # walltime on processor 37 : 75.99113603 
+
+ # walltime on processor 38 : 75.99124684 
+
+ # of trials = 100000000000 , estimate of pi is 3.141593733 
+
+ # walltime on master processor : 75.97883410 
+
+ # walltime on processor 39 : 75.99131061 
+3042.17user 17.34system 1:17.00elapsed 3973%CPU (0avgtext+0avgdata 129964maxresident)k
+0inputs+16672outputs (9major+1220171minor)pagefaults 0swaps

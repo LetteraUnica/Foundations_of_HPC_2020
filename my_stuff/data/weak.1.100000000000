@@ -1,0 +1,18 @@
+
+ # of trials = 100000000000 , estimate of pi is 3.141590008 
+
+ # walltime on master processor : 2571.42920961 
+2572.55user 2.70system 42:51.73elapsed 100%CPU (0avgtext+0avgdata 123836maxresident)k
+0inputs+16648outputs (9major+33043minor)pagefaults 0swaps
+
+ # of trials = 100000000000 , estimate of pi is 3.141590008 
+
+ # walltime on master processor : 2570.74299118 
+2570.58user 0.16system 42:51.04elapsed 99%CPU (0avgtext+0avgdata 123776maxresident)k
+0inputs+16648outputs (9major+33044minor)pagefaults 0swaps
+
+ # of trials = 100000000000 , estimate of pi is 3.141590008 
+
+ # walltime on master processor : 2577.18593474 
+2577.06user 0.16system 42:57.47elapsed 99%CPU (0avgtext+0avgdata 123096maxresident)k
+0inputs+16648outputs (9major+33069minor)pagefaults 0swaps

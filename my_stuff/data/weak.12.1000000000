@@ -1,0 +1,84 @@
+
+ # walltime on processor 1 : 26.07592857 
+
+ # walltime on processor 2 : 26.07641146 
+
+ # walltime on processor 3 : 26.07640888 
+
+ # walltime on processor 4 : 26.07641563 
+
+ # walltime on processor 5 : 26.07640463 
+
+ # walltime on processor 6 : 26.07645096 
+
+ # walltime on processor 7 : 26.07632775 
+
+ # walltime on processor 8 : 26.07643205 
+
+ # walltime on processor 9 : 26.07651550 
+
+ # walltime on processor 10 : 26.07657977 
+
+ # of trials = 12000000000 , estimate of pi is 3.141584104 
+
+ # walltime on master processor : 26.07659816 
+
+ # walltime on processor 11 : 26.07650357 
+313.61user 2.26system 0:26.47elapsed 1192%CPU (0avgtext+0avgdata 125676maxresident)k
+0inputs+16648outputs (9major+358057minor)pagefaults 0swaps
+
+ # walltime on processor 1 : 25.92720634 
+
+ # walltime on processor 2 : 25.92733994 
+
+ # walltime on processor 3 : 25.92720983 
+
+ # walltime on processor 4 : 25.92737394 
+
+ # walltime on processor 5 : 26.04380077 
+
+ # walltime on processor 6 : 26.04391810 
+
+ # walltime on processor 7 : 26.04383632 
+
+ # walltime on processor 8 : 26.04394321 
+
+ # walltime on processor 9 : 26.04343051 
+
+ # walltime on processor 10 : 26.04392933 
+
+ # of trials = 12000000000 , estimate of pi is 3.141584104 
+
+ # walltime on master processor : 26.04373199 
+
+ # walltime on processor 11 : 26.04358546 
+312.80user 2.43system 0:26.44elapsed 1191%CPU (0avgtext+0avgdata 125752maxresident)k
+0inputs+16640outputs (9major+357680minor)pagefaults 0swaps
+
+ # walltime on processor 1 : 25.93880091 
+
+ # walltime on processor 3 : 25.95353432 
+
+ # walltime on processor 5 : 25.95344091 
+
+ # walltime on processor 6 : 25.95340422 
+
+ # walltime on processor 7 : 25.95351448 
+
+ # walltime on processor 8 : 25.95338677 
+
+ # walltime on processor 9 : 25.95325033 
+
+ # walltime on processor 4 : 25.95352882 
+
+ # walltime on processor 10 : 25.95370100 
+
+ # of trials = 12000000000 , estimate of pi is 3.141584104 
+
+ # walltime on master processor : 25.95371120 
+
+ # walltime on processor 2 : 25.95368711 
+
+ # walltime on processor 11 : 25.95353850 
+312.17user 2.43system 0:26.37elapsed 1192%CPU (0avgtext+0avgdata 125608maxresident)k
+0inputs+16648outputs (9major+357755minor)pagefaults 0swaps

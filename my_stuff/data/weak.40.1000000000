@@ -1,0 +1,252 @@
+
+ # walltime on processor 1 : 29.83836117 
+
+ # walltime on processor 2 : 29.83827384 
+
+ # walltime on processor 3 : 29.86604108 
+
+ # walltime on processor 4 : 29.87903563 
+
+ # walltime on processor 11 : 29.87903625 
+
+ # walltime on processor 5 : 29.87891749 
+
+ # walltime on processor 6 : 29.87897948 
+
+ # walltime on processor 7 : 29.87072007 
+
+ # walltime on processor 8 : 29.87876071 
+
+ # walltime on processor 9 : 29.87884482 
+
+ # walltime on processor 10 : 29.87859683 
+
+ # walltime on processor 12 : 30.51213885 
+
+ # walltime on processor 13 : 30.50007216 
+
+ # walltime on processor 14 : 30.51222884 
+
+ # walltime on processor 15 : 30.51200881 
+
+ # walltime on processor 16 : 30.51228765 
+
+ # walltime on processor 17 : 30.51201792 
+
+ # walltime on processor 18 : 30.51215603 
+
+ # walltime on processor 19 : 30.51220294 
+
+ # walltime on processor 20 : 30.51208449 
+
+ # walltime on processor 21 : 30.51226988 
+
+ # walltime on processor 22 : 30.51201880 
+
+ # walltime on processor 23 : 30.51210687 
+
+ # walltime on processor 24 : 30.49934828 
+
+ # walltime on processor 25 : 30.51232960 
+
+ # walltime on processor 26 : 30.51219997 
+
+ # walltime on processor 27 : 30.51204341 
+
+ # walltime on processor 28 : 30.51240781 
+
+ # walltime on processor 29 : 30.51243765 
+
+ # walltime on processor 30 : 30.51236292 
+
+ # walltime on processor 31 : 30.51238371 
+
+ # walltime on processor 32 : 30.49951648 
+
+ # walltime on processor 33 : 30.51215982 
+
+ # walltime on processor 34 : 30.51227906 
+
+ # walltime on processor 35 : 30.51231127 
+
+ # walltime on processor 36 : 30.51229552 
+
+ # walltime on processor 37 : 30.51225695 
+
+ # walltime on processor 38 : 30.51236845 
+
+ # walltime on processor 39 : 30.51230463 
+
+ # of trials = 40000000000 , estimate of pi is 3.141595299 
+
+ # walltime on master processor : 30.51236743 
+1217.34user 15.46system 0:31.43elapsed 3921%CPU (0avgtext+0avgdata 129992maxresident)k
+0inputs+16664outputs (9major+1220276minor)pagefaults 0swaps
+
+ # walltime on processor 1 : 28.81415691 
+
+ # walltime on processor 2 : 28.81377391 
+
+ # walltime on processor 3 : 28.81383652 
+
+ # walltime on processor 4 : 30.09130866 
+
+ # walltime on processor 5 : 30.07892442 
+
+ # walltime on processor 6 : 31.74526638 
+
+ # walltime on processor 7 : 31.74509292 
+
+ # walltime on processor 8 : 31.74497619 
+
+ # walltime on processor 9 : 31.74505085 
+
+ # walltime on processor 10 : 31.74524811 
+
+ # walltime on processor 11 : 31.74524089 
+
+ # walltime on processor 12 : 31.74526331 
+
+ # walltime on processor 13 : 31.74498590 
+
+ # walltime on processor 14 : 31.74528408 
+
+ # walltime on processor 15 : 31.74518417 
+
+ # walltime on processor 16 : 31.74291934 
+
+ # walltime on processor 17 : 31.74485403 
+
+ # walltime on processor 18 : 31.74504798 
+
+ # walltime on processor 19 : 31.74509221 
+
+ # walltime on processor 20 : 31.74528533 
+
+ # walltime on processor 21 : 31.74513556 
+
+ # walltime on processor 22 : 31.74507196 
+
+ # walltime on processor 23 : 31.74491444 
+
+ # walltime on processor 24 : 31.74529510 
+
+ # walltime on processor 25 : 31.74291071 
+
+ # walltime on processor 26 : 31.74498135 
+
+ # walltime on processor 27 : 31.74500216 
+
+ # walltime on processor 31 : 31.74506834 
+
+ # walltime on processor 33 : 31.74521705 
+
+ # of trials = 40000000000 , estimate of pi is 3.141595299 
+
+ # walltime on master processor : 31.74532293 
+
+ # walltime on processor 28 : 31.74510337 
+
+ # walltime on processor 29 : 31.74528876 
+
+ # walltime on processor 30 : 31.73226767 
+
+ # walltime on processor 32 : 31.74498804 
+
+ # walltime on processor 34 : 31.74524222 
+
+ # walltime on processor 35 : 31.74453195 
+
+ # walltime on processor 36 : 31.73291654 
+
+ # walltime on processor 37 : 31.74535091 
+
+ # walltime on processor 38 : 31.74498614 
+
+ # walltime on processor 39 : 31.74516499 
+1261.58user 17.87system 0:32.78elapsed 3902%CPU (0avgtext+0avgdata 130008maxresident)k
+0inputs+16664outputs (9major+1221136minor)pagefaults 0swaps
+
+ # walltime on processor 1 : 29.80120047 
+
+ # walltime on processor 3 : 29.85240556 
+
+ # walltime on processor 2 : 29.85260186 
+
+ # walltime on processor 4 : 29.85232135 
+
+ # walltime on processor 5 : 29.85231558 
+
+ # walltime on processor 6 : 29.85241400 
+
+ # walltime on processor 7 : 29.85248180 
+
+ # walltime on processor 8 : 29.85241207 
+
+ # walltime on processor 9 : 29.85235042 
+
+ # walltime on processor 10 : 29.85246093 
+
+ # walltime on processor 11 : 29.84027085 
+
+ # walltime on processor 12 : 29.85196499 
+
+ # walltime on processor 13 : 29.85227749 
+
+ # walltime on processor 14 : 29.85238510 
+
+ # walltime on processor 16 : 29.88252949 
+
+ # walltime on processor 17 : 29.88262605 
+
+ # walltime on processor 15 : 29.88288740 
+
+ # walltime on processor 19 : 30.04239597 
+
+ # walltime on processor 20 : 30.05452709 
+
+ # walltime on processor 21 : 30.05462804 
+
+ # walltime on processor 22 : 30.05451339 
+
+ # walltime on processor 18 : 30.05467695 
+
+ # walltime on processor 23 : 30.05476679 
+
+ # walltime on processor 24 : 30.05467605 
+
+ # walltime on processor 25 : 30.05479051 
+
+ # walltime on processor 26 : 30.05471428 
+
+ # walltime on processor 27 : 30.05486087 
+
+ # walltime on processor 28 : 30.04564060 
+
+ # walltime on processor 29 : 30.05492317 
+
+ # walltime on processor 30 : 30.05446467 
+
+ # walltime on processor 31 : 30.04450519 
+
+ # walltime on processor 32 : 30.05489432 
+
+ # walltime on processor 33 : 30.04262358 
+
+ # walltime on processor 34 : 30.05469810 
+
+ # walltime on processor 35 : 30.04268592 
+
+ # walltime on processor 36 : 30.05497215 
+
+ # walltime on processor 37 : 30.05497216 
+
+ # walltime on processor 38 : 30.05502661 
+
+ # of trials = 40000000000 , estimate of pi is 3.141595299 
+
+ # walltime on master processor : 30.05506037 
+
+ # walltime on processor 39 : 30.05499993 
+1202.94user 17.09system 0:31.09elapsed 3924%CPU (0avgtext+0avgdata 130064maxresident)k
+0inputs+16672outputs (9major+1220466minor)pagefaults 0swaps

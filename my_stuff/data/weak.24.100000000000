@@ -1,0 +1,156 @@
+
+ # walltime on processor 1 : 2690.98492772 
+
+ # walltime on processor 2 : 2690.98553613 
+
+ # walltime on processor 3 : 2690.98535630 
+
+ # walltime on processor 4 : 2690.98462581 
+
+ # walltime on processor 5 : 2690.98522074 
+
+ # walltime on processor 6 : 2690.98462416 
+
+ # walltime on processor 7 : 2690.98547870 
+
+ # walltime on processor 8 : 2690.98543901 
+
+ # walltime on processor 9 : 2690.98483512 
+
+ # walltime on processor 10 : 2690.98538623 
+
+ # walltime on processor 11 : 2690.98553914 
+
+ # walltime on processor 12 : 2690.98558681 
+
+ # walltime on processor 13 : 2690.98496204 
+
+ # walltime on processor 14 : 2690.98533133 
+
+ # walltime on processor 15 : 2690.98486602 
+
+ # walltime on processor 16 : 2690.98555255 
+
+ # walltime on processor 17 : 2690.98519653 
+
+ # of trials = 2400000000000 , estimate of pi is 3.141592368 
+
+ # walltime on master processor : 2690.98510368 
+
+ # walltime on processor 18 : 2690.98532833 
+
+ # walltime on processor 19 : 2690.98458165 
+
+ # walltime on processor 20 : 2690.98473542 
+
+ # walltime on processor 21 : 2690.98493755 
+
+ # walltime on processor 22 : 2690.98541046 
+
+ # walltime on processor 23 : 2690.98494678 
+64610.21user 65.75system 44:51.60elapsed 2402%CPU (0avgtext+0avgdata 127576maxresident)k
+0inputs+16648outputs (9major+720169minor)pagefaults 0swaps
+
+ # walltime on processor 1 : 2699.89710221 
+
+ # walltime on processor 2 : 2699.89724071 
+
+ # walltime on processor 3 : 2699.89704934 
+
+ # walltime on processor 4 : 2699.89716770 
+
+ # walltime on processor 5 : 2699.89713219 
+
+ # walltime on processor 6 : 2699.89705001 
+
+ # walltime on processor 7 : 2699.89702530 
+
+ # walltime on processor 8 : 2699.89711346 
+
+ # walltime on processor 9 : 2699.89701925 
+
+ # walltime on processor 10 : 2699.89724880 
+
+ # walltime on processor 11 : 2699.89710798 
+
+ # walltime on processor 12 : 2699.89721383 
+
+ # walltime on processor 13 : 2699.89720094 
+
+ # walltime on processor 14 : 2699.89729921 
+
+ # walltime on processor 15 : 2699.89296789 
+
+ # of trials = 2400000000000 , estimate of pi is 3.141592368 
+
+ # walltime on master processor : 2699.89746952 
+
+ # walltime on processor 16 : 2699.89714117 
+
+ # walltime on processor 17 : 2699.89719445 
+
+ # walltime on processor 18 : 2699.89728325 
+
+ # walltime on processor 19 : 2699.89725615 
+
+ # walltime on processor 20 : 2699.89744922 
+
+ # walltime on processor 21 : 2699.89717566 
+
+ # walltime on processor 22 : 2699.89742776 
+
+ # walltime on processor 23 : 2699.89740070 
+64795.49user 11.42system 45:00.52elapsed 2399%CPU (0avgtext+0avgdata 127568maxresident)k
+0inputs+16648outputs (9major+720130minor)pagefaults 0swaps
+
+ # walltime on processor 1 : 2681.04774081 
+
+ # walltime on processor 7 : 2681.04764639 
+
+ # walltime on processor 11 : 2681.04777220 
+
+ # walltime on processor 12 : 2681.04774520 
+
+ # walltime on processor 13 : 2681.04772587 
+
+ # walltime on processor 14 : 2681.04779753 
+
+ # walltime on processor 2 : 2681.04775027 
+
+ # walltime on processor 3 : 2681.04774770 
+
+ # walltime on processor 4 : 2681.04770648 
+
+ # walltime on processor 5 : 2681.04734808 
+
+ # walltime on processor 6 : 2681.04758293 
+
+ # walltime on processor 8 : 2681.04773794 
+
+ # walltime on processor 9 : 2681.04761682 
+
+ # walltime on processor 10 : 2681.04758403 
+
+ # walltime on processor 15 : 2681.04767230 
+
+ # walltime on processor 16 : 2681.04785819 
+
+ # walltime on processor 17 : 2681.04783393 
+
+ # walltime on processor 18 : 2681.04794162 
+
+ # of trials = 2400000000000 , estimate of pi is 3.141592368 
+
+ # walltime on master processor : 2681.04786805 
+
+ # walltime on processor 19 : 2681.04785830 
+
+ # walltime on processor 20 : 2681.04780967 
+
+ # walltime on processor 21 : 2681.04797602 
+
+ # walltime on processor 22 : 2681.04786110 
+
+ # walltime on processor 23 : 2681.04804055 
+64354.65user 32.26system 44:41.67elapsed 2401%CPU (0avgtext+0avgdata 127596maxresident)k
+0inputs+16648outputs (9major+720165minor)pagefaults 0swaps

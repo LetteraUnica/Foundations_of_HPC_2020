@@ -1,0 +1,18 @@
+
+ # of trials = 1000000000 , estimate of pi is 3.141566812 
+
+ # walltime : 25.64000000 
+25.64user 0.00system 0:25.64elapsed 99%CPU (0avgtext+0avgdata 1404maxresident)k
+0inputs+8outputs (0major+65minor)pagefaults 0swaps
+
+ # of trials = 1000000000 , estimate of pi is 3.141566812 
+
+ # walltime : 26.47000000 
+26.47user 0.00system 0:26.48elapsed 99%CPU (0avgtext+0avgdata 1356maxresident)k
+0inputs+8outputs (0major+62minor)pagefaults 0swaps
+
+ # of trials = 1000000000 , estimate of pi is 3.141566812 
+
+ # walltime : 25.64000000 
+25.64user 0.00system 0:25.65elapsed 99%CPU (0avgtext+0avgdata 1356maxresident)k
+0inputs+8outputs (0major+66minor)pagefaults 0swaps

@@ -1,0 +1,6 @@
+I compiled the serial version of the monte carlo program "pi.c" that computes pi 
+with the gcc compiler version 9.3.0 using the command "gcc -o pi.x pi.c". 
+While for the parallel version of the program "mpi_pi.c" I loaded the openmpi module 
+with the command "module load openmpi/4.0.3/gnu/9.3.0" which loads the version
+4.0.3 of openmpi compiled with gcc version 9.3.0, I then compiled the code using
+the command "mpicc -o mpi_pi.x mpi_pi.c".

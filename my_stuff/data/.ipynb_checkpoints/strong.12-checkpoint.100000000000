@@ -1,0 +1,84 @@
+
+ # walltime on processor 1 : 215.45077510 
+
+ # walltime on processor 3 : 215.89471650 
+
+
+ # walltime on processor 4 : 215.89467843 
+
+ # walltime on processor 5 : 215.89382856 
+ # walltime on processor 2 : 215.89463729 
+
+ # walltime on processor 6 : 215.89475105 
+
+
+ # walltime on processor 7 : 215.89407683 
+ # walltime on processor 8 : 215.89470628 
+
+ # walltime on processor 9 : 215.89469509 
+
+ # walltime on processor 10 : 215.89476451 
+
+ # of trials = 99999999996 , estimate of pi is 3.141595917 
+
+
+ # walltime on processor 11 : 215.89479086 
+ # walltime on master processor : 215.89478049 
+2591.51user 3.68system 3:36.33elapsed 1199%CPU (0avgtext+0avgdata 125632maxresident)k
+0inputs+16648outputs (9major+357854minor)pagefaults 0swaps
+
+ # walltime on processor 1 : 215.54533965 
+
+ # walltime on processor 2 : 215.54545551 
+
+ # walltime on processor 3 : 215.54540079 
+
+ # walltime on processor 4 : 215.54541029 
+
+ # walltime on processor 5 : 215.86061374 
+
+ # walltime on processor 6 : 215.86027858 
+
+ # walltime on processor 7 : 215.86061027 
+
+ # walltime on processor 8 : 215.86037609 
+
+ # walltime on processor 9 : 215.86066017 
+
+ # walltime on processor 10 : 215.86063704 
+
+ # of trials = 99999999996 , estimate of pi is 3.141595917 
+
+ # walltime on master processor : 215.86074444 
+
+ # walltime on processor 11 : 215.86042717 
+2590.34user 3.89system 3:36.29elapsed 1199%CPU (0avgtext+0avgdata 125632maxresident)k
+0inputs+16648outputs (9major+356897minor)pagefaults 0swaps
+
+ # walltime on processor 1 : 216.00509786 
+
+ # walltime on processor 2 : 216.26780423 
+
+ # walltime on processor 3 : 216.26789536 
+
+ # walltime on processor 4 : 216.26780785 
+
+ # walltime on processor 5 : 217.34140945 
+
+ # walltime on processor 6 : 217.34131544 
+
+ # walltime on processor 7 : 217.34131304 
+
+ # walltime on processor 8 : 217.34134299 
+
+ # walltime on processor 9 : 217.34146702 
+
+ # walltime on processor 10 : 217.34133232 
+
+ # of trials = 99999999996 , estimate of pi is 3.141595917 
+
+ # walltime on master processor : 217.34108745 
+
+ # walltime on processor 11 : 217.34138204 
+2604.57user 3.29system 3:37.78elapsed 1197%CPU (0avgtext+0avgdata 125592maxresident)k
+0inputs+16648outputs (9major+357553minor)pagefaults 0swaps
