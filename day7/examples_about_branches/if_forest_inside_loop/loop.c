@@ -126,7 +126,7 @@ int main(int argc, char **argv)
   double start = CPU_TIME;
   
  #if defined(IF_FOREST)
-
+	printf("a\n");
   for ( i = 1; i < top; i++)
     {
       if(case1 == 0)
@@ -167,7 +167,7 @@ int main(int argc, char **argv)
     }
 
  #elif defined( POINTERS )
-
+	printf("b\n");
   void (*func)(double*, int);
       
   if(case1 == 0)
@@ -213,7 +213,7 @@ int main(int argc, char **argv)
     }
 
  #elif defined(SWITCH)
-
+	printf("c\n");
   int _case_ = (case1 << 2) + (case2 << 1) + case3;
   for ( int i = 0; i < top; i++ )
     {

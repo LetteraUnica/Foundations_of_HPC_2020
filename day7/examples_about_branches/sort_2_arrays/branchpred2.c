@@ -42,7 +42,6 @@
  * + -------------------------------------------------------------------------- +
  */
 
-
 #ifdef USE_PAPI                        /* ----------------------------------------------------- */
 #include <papi.h>
 
@@ -119,7 +118,7 @@ long double papi_stddev_values[PAPI_EVENTS_NUM] = {0.0};    /* this is the accum
 
 
 							    
-#define SIZE_DEFAULT 500000000	 			    /* the default array size           */
+#define SIZE_DEFAULT 50000000	 			    /* the default array size           */
 #define TOP (2 << 20)					    /* the max int value                */
 
 #define ITER 5						    /* the default # of repetitions     */
