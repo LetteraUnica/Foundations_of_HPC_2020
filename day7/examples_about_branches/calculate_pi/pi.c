@@ -107,11 +107,8 @@ long double papi_stddev_values[PAPI_EVENTS_NUM] = {0.0};    /* this is the accum
 		  (double)ts.tv_nsec * 1e-9)
 
 
-#define NSHOTS 100000000
+#define NSHOTS 10000000
 #define ITER   10
-
-
-
 
 int main ( int argc, char **argv )
 {
@@ -139,7 +136,8 @@ int main ( int argc, char **argv )
 
 	  const double x  = drand48();                      /* draw 2 pseudo-rnd in [0,1]       */
 	  const double y  = drand48();
-	  
+
+#define VAR1
 #ifdef VAR1			                            /* VAR 1 -------------------------- */
 	  double r  = x*x + y*y;	  
 
